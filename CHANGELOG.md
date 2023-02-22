@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/ryaanm/semantic-release/compare/v1.0.0...v1.1.0) (2023-02-22)
+
+
+### Features
+
+* **major:** constraint ([9d88aec](https://github.com/ryaanm/semantic-release/commit/9d88aec4946ade6d7d413f18c5958cbd2fe6b842))
+* **major:** constraint ([7e2c4fa](https://github.com/ryaanm/semantic-release/commit/7e2c4fa9097da72115fc86a5d56f74d91f71b689))
+
 # 1.0.0 (2023-02-22)
 
 
