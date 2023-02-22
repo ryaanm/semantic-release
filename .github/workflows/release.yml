@@ -21,4 +21,4 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
       - name: test
-        run: source .env && node -p process.env.GH_TOKEN
+        run: node -p process.env.GH_TOKEN
