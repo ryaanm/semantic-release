@@ -19,6 +19,5 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: npx semantic-release
-      - name: test
         run: echo ${{ secrets.GH_TOKEN }}
+         
