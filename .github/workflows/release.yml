@@ -18,5 +18,8 @@ jobs:
       - name: Release
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run:  npx semantic-release
+if: ${{ job.status == 'success' }}
+steps:
+      - name: Notify success
+        run: echo "The job was successful"
