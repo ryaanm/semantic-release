@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/ryaanm/semantic-release/compare/v1.1.1...v1.1.2) (2023-02-22)
+
+
+### Performance Improvements
+
+* **minor:** constraint2 ([be7ee6f](https://github.com/ryaanm/semantic-release/commit/be7ee6f38945a619a438ef44c0ac0b3f6293b940))
+
 ## [1.1.1](https://github.com/ryaanm/semantic-release/compare/v1.1.0...v1.1.1) (2023-02-22)
 
 
